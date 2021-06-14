@@ -1,0 +1,54 @@
+body{
+  font-family: Montserrat-bold;
+
+}
+h1{
+  text-align: center;
+  font-size: 2.5rem;
+
+}
+
+#login{
+  text-align: center;
+    background-color: #ff4c68;
+  padding: 250px 250px;
+  color: #fff;
+}
+.logo{
+  margin: 30px 20px;
+
+}
+.imgp{
+  height: 100px;
+}
+.button{
+  margin: 30px 30px;
+}
+/*page2*/
+#details{
+  text-align: center;
+  font-size: 1.5rem;
+  margin: 50px 50px;
+}
+.title{
+  background-color: #ff4c68;
+  margin-top: 0px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: #fff;
+}
+.imgp{
+  background-color: #ff4c68;
+  border-radius: 100%;
+  margin-bottom: 20px;
+}
+/* page3 */
+.loginbox{
+  margin: 40px 40px;
+}
+
+.title{
+  background-color: #ff4c68;
+  color: #fff;
+  text-align: center;
+}
